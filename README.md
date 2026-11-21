@@ -74,7 +74,7 @@ Projects focused on text preprocessing, Vector Space Models (VSM), and informati
 
 ## 🏆 GitHub Trophies
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Umerrr-10&theme=tokyonight&no-frame=true&row=1)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Umerrr-10&theme=tokyonight&no-frame=true&margin-w=10)
 
 ## 📈 GitHub Stats
 
